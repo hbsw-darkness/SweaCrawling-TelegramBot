@@ -1,0 +1,6 @@
+.idea/
+__pycache__/
+venv/
+userData.txt
+.DS_Store
+debug.log
